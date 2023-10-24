@@ -11,9 +11,13 @@ print(frase.count('o', 0, 16))
 #onde inicia a palavra que estou procurando
 print(frase.find('car'))
 print(frase.replace('Arthur', 'gremio'))
+#maiuscula
 print(frase.upper())
+#minuscula
 print(frase.lower())
+#so a primeira maiuscula
 print(frase.capitalize())
+#iniciais das palavras maiusculas
 print(frase.title())
 #remover espaços no inicio e final das Strings
 frase.strip()
