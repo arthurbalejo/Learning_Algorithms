@@ -23,3 +23,6 @@ for c in range(len(tupla)):
 
 print(f'maior: {maior}')
 print(f'menor: {menor}')
+#ou
+print(f'maior: {max(tupla)}')
+print(f'menor: {min(tupla)}')
