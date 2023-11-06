@@ -1,0 +1,1 @@
+# Aprimore o desafio 093 para que ele funcione com varios jogadores, incluindo um sistema de visualização de detalhes 
