@@ -1,0 +1,1 @@
+#faça um programa que tenha um alista chamada numeros e duas funções chamadas sorteia() e somaPar(). A primeira função vai sortear 5 numeros e vai coloca-los dentro da lista e a segunda função vai mostrar a soma entre todos os valores pares sorteados pela função anterior.
